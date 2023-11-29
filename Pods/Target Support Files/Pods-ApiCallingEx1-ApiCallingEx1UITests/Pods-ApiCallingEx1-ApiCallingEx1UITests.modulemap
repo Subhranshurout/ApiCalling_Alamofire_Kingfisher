@@ -1,0 +1,6 @@
+framework module Pods_ApiCallingEx1_ApiCallingEx1UITests {
+  umbrella header "Pods-ApiCallingEx1-ApiCallingEx1UITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
